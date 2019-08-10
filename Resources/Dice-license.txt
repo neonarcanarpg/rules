@@ -1,0 +1,5 @@
+Usage: 1,2,3,4,5,6 and !,@,#,$,%,^ correspond to two types of six sided dice faces: white with black pips and black with white pips.
+
+Licensing Information
+
+This font was created by Ilya Bossov in United States on August 24, 2018. This work is licensed under a Creative Commons Attribution 4.0 International License. https://creativecommons.org/licenses/by/4.0/
