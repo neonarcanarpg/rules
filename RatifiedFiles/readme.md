@@ -1,0 +1,1 @@
+This is where files that have been voted on by the community and accepted into the main document await their fate, before someone super responsible, like an editor puts them together into a final product.
